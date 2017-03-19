@@ -8,10 +8,10 @@
 //   console.log("Woohoo!")
 // }
 
-// // part 3:
-// setTimeout(() => {
-//   console.log("Woohoo!")
-// }, 3000);
+ part 3:
+setTimeout(() => {
+  console.log("Woohoo!")
+ }, 3000);
 
 // // part 4:
 // let cheer = () => {
